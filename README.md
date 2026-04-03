@@ -30,7 +30,7 @@ It provides insights into sales performance across regions, categories, and time
 * Sales fluctuate across months
 
 📷 Dashboard Preview
-![Dashboard](images/dashboard.png)
+![Dashboard](Dashboard.png)
 
 
 
